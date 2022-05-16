@@ -1,5 +1,5 @@
 {
-    "name": "Copy data V2",
+    "name": "copydata",
     "type": "Copy",
     "dependsOn": [],
     "policy": {
