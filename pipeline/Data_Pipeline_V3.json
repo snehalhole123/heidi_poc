@@ -1,5 +1,5 @@
 {
-    "name": "Copy data V3",
+    "name": "Data_Pipeline_V3",
     "type": "Copy",
     "dependsOn": [],
     "policy": {
