@@ -1,0 +1,17 @@
+{
+	"name": "HeidiOutputFile",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "HeidiDataLakeStorage",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "output"
+			}
+		}
+	}
+}
