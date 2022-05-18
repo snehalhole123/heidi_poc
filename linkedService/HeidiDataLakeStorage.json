@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://heidiadlspoc.dfs.core.windows.net",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEMzRTdDNjg4LUIzOEItNEExQy1CODZFLTUwNDFFMENBMTExMl80YjY3ODg1MC00Njg5LTQzMzEtODU5Yy01YTBmYmY1N2FmMzMiDQp9"
+			"url": "https://heidiadlstest.dfs.core.windows.net",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQENGRUY4NDk4LTUyQTUtNENDMy1BNjkwLUEyOUQ2NTdENkJFOF83NWVkMjIwNS04N2QwLTQ5Y2ItODgzNS03YzQwMjI4NTdmMWUiDQp9"
 		}
 	}
 }
