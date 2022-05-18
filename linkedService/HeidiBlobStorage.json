@@ -6,7 +6,7 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"connectionString": "DefaultEndpointsProtocol=https;AccountName=heidiblobtest;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDBCRjVEMkFELUU1OTYtNEU4RC04QzVGLTgzM0IxNkY2QzJEQ182YWIwYmVjMC04ZDQ4LTRiZDctOWQ5OS0wYjM5MTM3N2I0ZTciDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQENGRUY4NDk4LTUyQTUtNENDMy1BNjkwLUEyOUQ2NTdENkJFOF9mZmE5YjZmMy1mM2RhLTQ4YWUtYmU5MC0yOWUxYzUyOTI5ZGUiDQp9"
 		}
 	}
 }
